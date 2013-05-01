@@ -1,0 +1,5 @@
+h1. abc_theme
+
+p. This is an admin-side theme template for "Textpattern CMS":http://textpattern.com/.
+
+p. This would be your theme's help file.

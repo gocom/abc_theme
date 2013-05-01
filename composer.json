@@ -1,0 +1,25 @@
+{
+	"name": "rah/abc_theme",
+	"description": "An admin-side theme template",
+	"keywords": ["textpattern"],
+	"homepage": "https://github.com/gocom/abc_theme",
+	"license": "GPL-2.0",
+	"type": "textpattern-admin-theme",
+	"authors": [
+		{
+			"name": "Jukka Svahn",
+			"homepage": "http://rahforum.biz",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/gocom/abc_theme/issues",
+		"source": "https://github.com/gocom/abc_theme"
+	},
+	"autoload": {
+		"files": []
+	},
+	"require": {
+		"rah/textpattern-plugin-installer": "*@dev"
+	}
+}
