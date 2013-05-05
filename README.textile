@@ -1,5 +1,19 @@
 h1. abc_theme
 
+p. "Download":https://github.com/gocom/abc_theme/archive/master.zip | "Packagist":https://packagist.org/packages/rah/abc_theme
+
 p. This is an admin-side theme template for "Textpattern CMS":http://textpattern.com/.
 
 p. This would be your theme's help file.
+
+h2. Installing
+
+p. This plugin template can be installed using "Composer":http://getcomposer.org:
+
+bc. $ composer.phar require rah/abc_theme
+
+h2. Changelog
+
+h3. Version 0.1.0 - 2013/05/05
+
+* Initial release.

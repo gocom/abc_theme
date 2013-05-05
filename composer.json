@@ -1,7 +1,7 @@
 {
 	"name": "rah/abc_theme",
 	"description": "An admin-side theme template",
-	"keywords": ["textpattern"],
+	"keywords": ["textpattern", "admin", "theme"],
 	"homepage": "https://github.com/gocom/abc_theme",
 	"license": "GPL-2.0",
 	"type": "textpattern-admin-theme",
